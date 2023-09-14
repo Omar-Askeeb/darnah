@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183183604276",
+    "project_id": "clone-1b5b4",
+    "storage_bucket": "clone-1b5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183183604276:android:0cd29a14a85a165e12a861",
+        "android_client_info": {
+          "package_name": "com.askeeb.DarnahHurricane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183183604276-nokfi4ilmnn1i4mjn4d2rh2loav6qggt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IxaeG52sAIG99qJ5ZYtQZqThnZuhdM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183183604276-nokfi4ilmnn1i4mjn4d2rh2loav6qggt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
